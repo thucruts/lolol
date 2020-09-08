@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTM3U : -1, A
-http://p2prime.xyz:80/tvbox04/ucm352/13846?checkedby:iptvcat.com
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country=" tvg-logo="" group-title="Undefined",iptvcat.com
+https://iptvcat.com/assets/videos/lazycat.mp4
